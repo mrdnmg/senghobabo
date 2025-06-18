@@ -1,2 +1,2 @@
 # senghobabo
-print('hello')
+print('helloㅊㅊㅊ')
