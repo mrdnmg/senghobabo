@@ -1,1 +1,2 @@
 # senghobabo
+print('hello world')
